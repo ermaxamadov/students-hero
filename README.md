@@ -165,4 +165,4 @@ Issues and pull requests are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING
 
 ## License
 
-StudentHero is available under the [MIT License](LICENSE).
+StudentHero is available under the [MIT License](LICENSE)
